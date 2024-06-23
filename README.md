@@ -20,7 +20,7 @@ The script allows users to generate MSC files that can execute arbitrary command
 Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/msc-dropper.git
+   git clone https://github.com/ZERODETECTION/MSC_Dropper.git
    ```
 
 ## Usage
