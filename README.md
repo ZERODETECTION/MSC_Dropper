@@ -14,22 +14,10 @@ The script allows users to generate MSC files that can execute arbitrary command
 
 ## Installation
 
-1. Clone the repository:
+Clone the repository:
 
    ```bash
    git clone https://github.com/your-username/msc-dropper.git
-   ```
-
-2. Navigate into the directory:
-
-   ```bash
-   cd msc-dropper
-   ```
-
-3. Install dependencies (if any):
-
-   ```bash
-   # No dependencies needed for this script
    ```
 
 ## Usage
