@@ -1,3 +1,4 @@
+![logo](https://github.com/ZERODETECTION/H9_Stage0/blob/main/logo_sm.png)
 # MSC Dropper Tool
 
 MSC Dropper is a Python script designed to automate the creation of MSC (Microsoft Management Console) files with customizable payloads for arbitrary execution. This tool leverages a method discovered by Samir (@SBousseaden) from Elastic Security Labs, termed #GrimResource, which facilitates initial access and evasion through `mmc.exe`.
